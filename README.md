@@ -5,6 +5,8 @@ Configures the [Google Cloud SDK][sdk] in the GitHub Actions environment. The Go
 
 Or integrate natively with other Google Cloud GitHub Actions:
 
+
+
 * [Authenticate to Google Cloud][auth]
 * [Deploy a Cloud Run service](https://github.com/google-github-actions/deploy-cloudrun)
 * [Deploy an App Engine app](https://github.com/google-github-actions/deploy-appengine)
